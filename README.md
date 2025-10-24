@@ -1,1 +1,2 @@
 # SQLPROJECT4
+I just finished a really practical SQL task focused on summarizing data. I spent my time working with aggregate functions like COUNT, SUM, and AVG  to get meaningful insights from the data. The main goal was using GROUP BY  to neatly categorize all the information. I also got a solid handle on how to filter those groups using HAVING and when to use WHERE instead. It was a great exercise in turning raw tabular data into a clean analysis.
